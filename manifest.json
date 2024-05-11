@@ -31,7 +31,7 @@
     ],
     "theme_color": "#000",
     "background_color": "#fff",
-    "display": "standalone",
+    "display": "fullscreen",
     "screenshots": [
         {
             "src": "/pwa_test/screenshots/screenshot-desktop-light.png",
