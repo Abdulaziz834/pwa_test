@@ -1,0 +1,65 @@
+{
+    "name": "Global Time",
+    "short_name": "Global Time",
+    "description": "Watch out watches",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "icons/manifest-icon-192.maskable.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/manifest-icon-192.maskable.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/manifest-icon-512.maskable.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/manifest-icon-512.maskable.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ],
+    "theme_color": "#000",
+    "background_color": "#fff",
+    "display": "standalone",
+    "screenshots": [
+        {
+            "src": "/screenshots/screenshot-desktop-light.png",
+            "type": "image/png",
+            "sizes": "1920x1080",
+            "form_factor": "wide",
+            "label": "Desktop View of the Site"
+        },
+        {
+            "src": "/screenshots/screenshot-desktop-dark.png",
+            "type": "image/png",
+            "sizes": "1920x1080",
+            "form_factor": "wide",
+            "label": "Desktop View of the Site with Dark Theme"
+        },
+        {
+            "src": "/screenshots/screenshot-mobile-light.png",
+            "type": "image/jpg",
+            "sizes": "563x1001",
+            "form_factor": "narrow",
+            "label": "Mobile View of the Site"
+        },
+        {
+            "src": "/screenshots/screenshot-mobile-dark.png",
+            "type": "image/jpg",
+            "sizes": "563x1001",
+            "form_factor": "narrow",
+            "label": "Mobile View of the Site with Dark Theme"
+        }
+    ]
+}
