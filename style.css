@@ -30,7 +30,6 @@ body {
     font-optical-sizing: auto;
     font-style: normal;
     font-variation-settings: "slnt" 0;
-
 }
 
 
@@ -57,14 +56,15 @@ h4 {
     margin-inline: 1.25rem;
 }
 
-.title.time {
-    font-weight: 700;
+.title.time,
+.subtitle.day {
     text-align: center;
+    filter: drop-shadow(0 0 5px color-mix(in lab, var(--clr-text-body) 20%, transparent))
 }
 
-.subtitle.date {
-    font-weight: 400;
-    text-align: center;
+.title.time {
+    font-weight: 700;
+
 }
 
 @media (max-width: 425px) {
