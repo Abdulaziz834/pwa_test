@@ -1,13 +1,13 @@
 :root {
-    --clr-bg-body: #fff;
-    --clr-text-body: #000;
+    --clr-bg-body: #fdffff;
+    --clr-text-body: #333230;
 }
 
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --clr-bg-body: #16191d;
-        --clr-text-body: #fff;
+        --clr-bg-body: #333230;
+        --clr-text-body: #fdffff;
     }
 }
 

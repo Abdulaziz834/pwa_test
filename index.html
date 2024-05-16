@@ -106,6 +106,12 @@
         <h1 data-time class="title time"></h1>
         <h4 data-date class="subtitle day"></h4>
     </div>
+
+    <script>
+        if ("serviceWorker" in navigator) {
+        navigator.serviceWorker.register("/service-worker.js");
+      }
+    </script>
 </body>
 
 </html>
