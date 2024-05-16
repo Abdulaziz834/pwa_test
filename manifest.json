@@ -2,6 +2,9 @@
     "name": "Global Time",
     "short_name": "Global Time",
     "description": "Watch out watches",
+    "version": "0.0.4",
+    "version_name": "0.0.4 beta",
+    "offline_enabled": true,
     "start_url": "/pwa_test",
     "icons": [
         {
