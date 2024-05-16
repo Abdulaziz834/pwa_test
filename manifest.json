@@ -73,7 +73,7 @@
             "name": "Time Only",
             "description": "View the only time without date",
             "url": "/?time",
-            "icons": [{ "src": "/icons/time.png", "sizes": "192x192" }]
+            "icons": [{ "src": "/pwa_test/icons/time.png", "sizes": "192x192" }]
         }
     ]
 }
